@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "d7ce15d3678299ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "039501167b437201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac444d7dc2ed3136",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b0be2e7b32a8688",
+    "type": "split",
+    "children": [
+      {
+        "id": "793734ea95ab145f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb9027c782f75b57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2559ac08d890b33f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fccdc63fd54280cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b010983e9c998955",
+    "type": "split",
+    "children": [
+      {
+        "id": "22393360c6a6dd6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b0b8f145a75f88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TryHackMe/Windows/Active Directory/BASICS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for BASICS"
+            }
+          },
+          {
+            "id": "f9d34735952a1228",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TryHackMe/Windows/Active Directory/BASICS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from BASICS"
+            }
+          },
+          {
+            "id": "d18f8a4c5a2387a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "79473fad63307db6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TryHackMe/Windows/Active Directory/BASICS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of BASICS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ac444d7dc2ed3136",
+  "lastOpenFiles": [
+    "Penetration Testing Process/Steps of Penetration Testing.md",
+    "Templates/Weekly_Tracker_Template.md",
+    "Weekly_Logs/Untitled.md",
+    "2025-07-21.md",
+    "Templates",
+    "Weekly_Logs",
+    "TryHackMe/Windows/Active Directory/BASICS.md"
+  ]
+}
