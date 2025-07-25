@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Reconnaissance/Active/NMAP.md",
+                "file": "TryHackMe/Reconnaissance/Active/Nmap Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NMAP"
+              "title": "Nmap Cheat Sheet"
             }
           }
         ]
@@ -171,6 +171,7 @@
   "active": "ac444d7dc2ed3136",
   "lastOpenFiles": [
     "TryHackMe/Reconnaissance/Active/NMAP.md",
+    "TryHackMe/Reconnaissance/Active/Nmap Cheat Sheet.md",
     "cache/Pasted image 20250723023252.png",
     "Weekly_Logs/July 2025/Week 4.md",
     "cache/Pasted image 20250724184457.png",
