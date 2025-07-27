@@ -11,10 +11,14 @@
             "id": "114503f067748747",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "⚒️Tools-CheatSheets/Nmap Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nmap Cheat Sheet"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Windows/Active Directory/BASICS.md",
+                "file": "TryHackMe/Red Team/Reconnaissance/Active/Nmap Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BASICS"
+              "title": "Backlinks for Nmap Cheat Sheet"
             }
           },
           {
@@ -109,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TryHackMe/Windows/Active Directory/BASICS.md",
+                "file": "TryHackMe/Red Team/Reconnaissance/Active/Nmap Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BASICS"
+              "title": "Outgoing links from Nmap Cheat Sheet"
             }
           },
           {
@@ -164,18 +168,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "114503f067748747",
+  "active": "eb9027c782f75b57",
   "lastOpenFiles": [
-    "README.md",
+    "⚒️Tools-CheatSheets",
+    "TryHackMe/Red Team/Reconnaissance/Active/NMAP.md",
+    "HackTheBox/Fundamentals/INTRODUCTION TO INFORMATION SECURITY/3) InfoSec Domains.md",
+    "HackTheBox/Fundamentals/Penetration Testing Process/Steps of Penetration Testing.md",
+    "HackTheBox/Fundamentals/INTRODUCTION TO INFORMATION SECURITY/2) Principles of Information Security.md",
+    "HackTheBox/Fundamentals/INTRODUCTION TO INFORMATION SECURITY/1) Structure of InfoSec.md",
     "Networking Concepts/Encapsulation.md",
+    "TryHackMe/Blue Team/SOC Level 1/UNIFIED KILL CHAIN.md",
+    "TryHackMe/Blue Team/SOC Level 1/SOC FUNDAMENTALS.md",
+    "TryHackMe/Blue Team/SOC Level 1/Pyramid Of Pain.md",
+    "TryHackMe/Blue Team/SOC Level 1/CYBER KILL CHAIN.md",
+    "TryHackMe/Blue Team/SOC Level 1/Windows/Windows Forensics 1.md",
+    "TryHackMe/Blue Team/Logs/INTRO TO LOGS.md",
+    "Weekly_Logs/July 2025/Week 4.md",
+    "⚒️Tools-CheatSheets/Nmap Cheat Sheet.md",
+    "README.md",
     "HackTheBox/Fundamentals/Windows Fundamentals/Windows_Fundamentals_Module_Cheat_Sheet.pdf",
-    "TryHackMe/Red Team/Reconnaissance/Active/Nmap Cheat Sheet.md",
     "TryHackMe/General",
     "TryHackMe/Blue Team",
     "TryHackMe/Red Team",
-    "TryHackMe/Red Team/Reconnaissance/Active/NMAP.md",
     "cache/Pasted image 20250723023252.png",
-    "Weekly_Logs/July 2025/Week 4.md",
     "cache/Pasted image 20250724184457.png",
     "OverTheWire/Bandit.md",
     "cache/Pasted image 20250723172206.png",
@@ -191,7 +206,6 @@
     "LICENSE",
     "Untitled.md",
     "Weekly_Logs/July 2025",
-    "HackTheBox/Fundamentals/Penetration Testing Process/Steps of Penetration Testing.md",
     "Templates/Weekly_Tracker_Template.md",
     "Weekly_Logs/Untitled.md",
     "2025-07-21.md",
