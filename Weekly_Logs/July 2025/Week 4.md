@@ -5,14 +5,7 @@
 ---
 
 ### 🎯 Weekly Focus
-> _(Reconnaissance, Port Scanning, Linux, Networking)_
-
----
-
-### 📚 Learning Goals
-- [ ] Study: Nmap
-- [ ] Watch: 
-- [ ] Notes review:
+> _(Reconnaissance, Port Scanning, Networking)_
 
 ---
 
@@ -20,8 +13,7 @@
 | Platform    | Lab/Box/Challenge                      | Status | Notes/Writeup Link |
 | ----------- | -------------------------------------- | ------ | ------------------ |
 | TryHackMe   | https://tryhackme.com/room/furthernmap | ✅      | [[NMAP]]           |
-| HackTheBox  |                                        | ☐      |                    |
-| PortSwigger |                                        | ☐      |                    |
+
 
 ---
 
@@ -36,22 +28,15 @@
 ---
 
 ### 💭 Weekly Reflection
-- 🧠 What I learned:
-- ⚠️ What I struggled with:
-- 🎯 Goal for next week:
-- ✅ What I’m proud of:
+- 🧠 What I learned: During this week, I have deepened my knowledge and understanding of how Nmap works. I learned how to better port scan hosts and made my cheatsheet that I will be upgrading when new techniques will be found.
 
----
+- ⚠️ What I struggled with: No struggles.
 
-### 🔥 Week Score (0–10)
-| Focus | Execution | Depth of Understanding |
-|-------|-----------|------------------------|
-|       |           |                        |
 
 ---
 
 ### ✅ Weekly Summary
-- Total hours studied: 
-- Labs/boxes completed: 
-- Writeups/blogs created: 
-- New tools/techniques learned: 
+
+- Total hours studied: 9 hours of studying
+- Labs/boxes completed: Nmap room on TryHackMe
+

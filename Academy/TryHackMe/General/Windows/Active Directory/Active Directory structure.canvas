@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"5f0230e2c9b44daf","type":"text","text":"Domain Controller (DC)","x":-360,"y":-20,"width":250,"height":60,"color":"2"},
+		{"id":"aae7ee87943384d4","type":"text","text":"Active Directory (AD)","x":-24,"y":-19,"width":250,"height":60,"color":"3"},
+		{"id":"ed436b48aa6e8b98","type":"text","text":"Windows Domain (tryhackme.com)","x":-700,"y":-28,"width":250,"height":76,"color":"1"},
+		{"id":"e985e745fc6a0656","type":"text","text":"Active Directory Lightweight Directory Services (AD LDS)","x":420,"y":-120,"width":250,"height":100},
+		{"id":"8085145e6f0a5615","type":"text","text":"Active Directory Domain Services (AD DS) [[BASICS#Active Directory]]","x":420,"y":-260,"width":250,"height":100},
+		{"id":"cf34b9c6f0cd291c","type":"text","text":"Active Directory Certificate Services (AD CS)","x":420,"y":11,"width":250,"height":89},
+		{"id":"6e7672e159e6c666","type":"text","text":"Active Directory Federation Services (AD FS)","x":420,"y":140,"width":250,"height":80}
+	],
+	"edges":[
+		{"id":"6c1f8c621672a389","fromNode":"ed436b48aa6e8b98","fromSide":"right","toNode":"5f0230e2c9b44daf","toSide":"left"},
+		{"id":"0853dc809cf46434","fromNode":"5f0230e2c9b44daf","fromSide":"right","toNode":"aae7ee87943384d4","toSide":"left"},
+		{"id":"7e4d0b40ce4f8563","fromNode":"aae7ee87943384d4","fromSide":"right","toNode":"8085145e6f0a5615","toSide":"left"},
+		{"id":"e22ad95fffb4609e","fromNode":"aae7ee87943384d4","fromSide":"right","toNode":"e985e745fc6a0656","toSide":"left"},
+		{"id":"b4912c0a7a20a5d2","fromNode":"aae7ee87943384d4","fromSide":"right","toNode":"cf34b9c6f0cd291c","toSide":"left"},
+		{"id":"56af170d4404106a","fromNode":"aae7ee87943384d4","fromSide":"right","toNode":"6e7672e159e6c666","toSide":"left"}
+	]
+}
