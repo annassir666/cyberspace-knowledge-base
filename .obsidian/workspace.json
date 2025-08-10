@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academy/TryHackMe/Red Team/Linux/Linux Backdoors.md",
+                "file": "⚒️Tools-CheatSheets/Tmux Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Backdoors"
+              "title": "Tmux Cheat Sheet"
             }
           }
         ],
@@ -199,11 +199,13 @@
   },
   "active": "aba7596a19f5d390",
   "lastOpenFiles": [
+    "cache/Pasted image 20250811002833.png",
+    "Academy/TryHackMe/Red Team/Linux/Linux Backdoors.md",
+    "⚒️Tools-CheatSheets/Tmux Cheat Sheet.md",
     "cache/Pasted image 20250808064420.png",
     "cache/Pasted image 20250808064356.png",
     "cache/Pasted image 20250808061932.png",
     "⚒️Tools-CheatSheets/Nmap Cheat Sheet.md",
-    "Academy/TryHackMe/Red Team/Linux/Linux Backdoors.md",
     "Academy/TryHackMe/Red Team/Linux",
     "Academy/TryHackMe/Red Team/Reconnaissance/Active/NMAP.md",
     "Academy/TryHackMe/General/Windows/Breaching Active Directory (Network).md",
@@ -217,7 +219,6 @@
     "Academy/TryHackMe/General/Windows/Active Directory/Managing Users and Computers in AD.md",
     "cache/Pasted image 20250805192837.png",
     "Academy/TryHackMe/General/Windows/Active Directory/Authentication Methods.md",
-    "cache/Pasted image 20250805175405.png",
     "Academy/TryHackMe/General/Windows/Active Directory/Active Directory structure.canvas",
     "Academy/TryHackMe/Blue Team/SOC Level 1/Windows/Windows Forensics 1.md",
     "Academy/TryHackMe/General/Windows/Active Directory/Group Policies.md",
@@ -242,7 +243,6 @@
     "Academy/TryHackMe/General",
     "Academy/TryHackMe/Blue Team",
     "Academy/TryHackMe/Red Team",
-    "OverTheWire/Bandit.md",
     "Untitled 1.canvas",
     "Academy/TryHackMe/Red Team/Reconnaissance/Active",
     "Academy/TryHackMe/Red Team/Reconnaissance",
